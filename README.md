@@ -1,4 +1,4 @@
-# ninebi
+# nineBI
 
 N Nine Solution
 
